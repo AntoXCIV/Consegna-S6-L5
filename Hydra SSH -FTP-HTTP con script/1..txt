@@ -1,0 +1,1 @@
+Ho creato uno script per effettuare il cracking di user e password in contemporanea su tutti i servizi avviati.

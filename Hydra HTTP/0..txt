@@ -1,0 +1,1 @@
+Tramite l'aiuto di ChatGPT, ho creato una pagina HTML con autenticazione, in modo da testare il servizio HTTP tramite Hydra.
